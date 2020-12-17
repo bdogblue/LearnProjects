@@ -1,0 +1,6 @@
+Josh Hall        32
+Gary Smith       28
+Brian Taylor     36
+Mark Bowman      56
+Kent Gleason     62
+Robert Haney     33

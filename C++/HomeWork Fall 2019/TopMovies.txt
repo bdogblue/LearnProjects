@@ -1,0 +1,200 @@
+Titanic
+600788188
+Star Wars
+460998007
+E.T. The Extra-Terrestrial
+434949459
+Star Wars: Episode I - The Phantom Menace
+431088295
+Spider-Man
+403706375
+The Lord of the Rings: The Return of the King
+368210170
+Jurassic Park
+57067947
+The Lord of the Rings: The Two Towers
+341748130
+Finding Nemo
+339714367
+Forrest Gump
+329694499
+The Lion King
+328539505
+Harry Potter and the Sorcerer's Stone
+317557891
+Lord of the Rings: The Fellowship of the Ring
+314776170
+Star Wars: Episode II - Attack of the Clones
+310675583
+Return of the Jedi
+309205079
+Independence Day
+306169255
+Pirates of the Caribbean: The Curse of the Black Pearl
+305411224
+The Sixth Sense
+293506292
+The Empire Strikes Back
+290271960
+Home Alone
+285761243
+The Matrix Reloaded
+281519061
+Shrek
+267665011
+Harry Potter and the Chamber of Secrets
+261970615
+Dr. Seuss' How The Grinch Stole Christmas
+260031035
+Jaws
+260000000
+Monsters, Inc.
+255870172
+Batman
+251188924
+Men in Black
+250690539
+Toy Story 2
+245852179
+Raiders of the Lost Ark
+245034358
+Bruce Almighty
+242589580
+Twister
+241708908
+My Big Fat Greek Wedding
+241437427
+Ghostbusters
+238600000
+Beverly Hills Cop
+234760478
+Cast Away
+233632142
+The Lost World: Jurassic Park
+229086679
+Signs
+227965690
+Rush Hour 2
+226164286
+Mrs. Doubtfire
+219195243
+Ghost
+217618602
+Aladdin
+217350219
+Saving Private Ryan
+216173322
+Mission: Impossible 2
+215409889
+X2: X-Men United
+214948780
+The Passion of The Christ
+213888740
+Austin Powers in Goldmember
+213079163
+Back to the Future
+210609762
+Austin Powers: The Spy Who Shagged Me
+205444716
+Terminator 2: Judgment Day
+204859496
+The Exorcist
+204394584
+The Mummy Returns
+202007640
+Armageddon
+201578182
+Gone With the Wind
+198655278
+Pearl Harbor
+198539855
+Indiana Jones and the Last Crusade
+197171806
+Toy Story
+191780865
+Men in Black II
+190418803
+Gladiator
+187683805
+Dances with Wolves
+184208848
+Batman Forever
+184031112
+The Fugitive
+183875760
+Ocean's Eleven
+183405771
+What Women Want
+182805123
+The Perfect Storm
+182618434
+Grease
+181440568
+Liar Liar
+181410615
+Jurassic Park III
+181166115
+Mission: Impossible
+180981856
+Planet of the Apes
+180011740
+Indiana Jones and the Temple of Doom
+179880271
+Pretty Woman
+178406268
+Snow White and the Seven Dwarfs
+178028683
+Tootsie
+177200000
+Top Gun
+176786701
+There's Something About Mary
+176484651
+Ice Age
+176387405
+Crocodile Dundee
+174792925
+Home Alone 2: Lost in New York
+173585516
+Elf
+173305906
+Air Force One
+172956409
+Rain Man
+172825435
+Apollo 13
+172060755
+The Matrix
+171414892
+Beauty and the Beast
+171340294
+Tarzan
+171091819
+A Beautiful Mind
+170708996
+Chicago
+170684505
+Three Men and a Baby
+167780960
+Meet the Parents
+166225040
+Robin Hood: Prince of Thieves
+165493908
+Hannibal
+165092266
+Catch Me If You Can
+164435221
+Big Daddy
+163479795
+Batman Returns
+162831698
+A Bug's Life
+162798565
+The Waterboy
+161491646
+Die Another Day
+160201106
+The Sound of Music
+158671368
+The Firm
+158340292

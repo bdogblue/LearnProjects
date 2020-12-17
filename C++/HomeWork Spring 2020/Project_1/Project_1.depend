@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1580363623 source:/home/bdogblue/Projects/C++/HomeWork Spring 2020/Project_1/main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	"person.h"
+
+1580318666 /home/bdogblue/Projects/C++/HomeWork Spring 2020/Project_1/person.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+
+1580362731 source:/home/bdogblue/Projects/C++/HomeWork Spring 2020/Project_1/person.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	"person.h"
+

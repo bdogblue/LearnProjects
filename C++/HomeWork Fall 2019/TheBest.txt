@@ -1,0 +1,7 @@
+The best 4 of movies
+
+Title			Income			Comment
+Titanic			600788188			above average
+Star Wars			460998007			below average
+E.T. The Extra-Terrestrial			434949459			below average
+Star Wars: Episode I - The Phantom Menace			431088295			below average

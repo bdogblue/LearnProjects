@@ -1,0 +1,18 @@
+Enter the name the file you would like to open: People
+
+Last           First          Age
+-------------  -------------  ---
+Bowman         David          45
+Bowman         Frank          37
+Bowman         John           30
+Bowman         Mark           13
+Bowman         Mark           42
+Bowman         Richard        47
+Christensen    Ann            70
+Cox            Susan          36
+Gueller        Kathleen       34
+Morales        Carlos         68
+
+Process returned 0 (0x0)   execution time : 16.729 s
+Press ENTER to continue.
+

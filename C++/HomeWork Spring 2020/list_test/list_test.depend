@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1580869991 source:/home/bdogblue/Projects/C++/HomeWork Spring 2020/list_test/main.cpp
+	<iostream>
+	"list.h"
+
+1580870663 /home/bdogblue/Projects/C++/HomeWork Spring 2020/list_test/include/list.h
+
